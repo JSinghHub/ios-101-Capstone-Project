@@ -19,7 +19,7 @@ An expansive database of Sikh Prayers that let users pray with ease-of-use. I en
 ### App Evaluation
 
 - **Category:** Lifestyle / Reference / Education
-- **Mobile:** The app's eases-of-use comes with mobile experience. Users prefer to ready hymes on a hand-held device. Some functinality like iCloud Backup needs mobile experience. Also it needs isolation from other UI elements like web interface to let user focus.
+- **Mobile:** The app's eases-of-use comes with mobile experience. Users prefer to ready hyms on a hand-held device. Some functinality like iCloud Backup needs mobile interface. Also it needs isolation from other UI elements like browser UI to let user focus.
 - **Story:** This app address and fix various drawbacks in the current impimentation of such kind of apps like outdated UI, not easy to use. It engourage user  to be in heigher state of mind.
 - **Market:** Although the maket is majority of sikh diaespora, but its no means a small population scattered worldwide.
 - **Habit:** The app is adictive to the niche group of people who see value in it. Average use of the app is around 2-3 times a day for 2-3 hours.
