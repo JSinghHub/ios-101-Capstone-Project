@@ -72,8 +72,7 @@ An expansive database of Sikh Prayers that let users pray with ease-of-use. I en
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="Wireframes.jpeg" >
 
 ### [BONUS] Digital Wireframes & Mockups
 
